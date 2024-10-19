@@ -9,7 +9,7 @@ import {
   animated,
   useSpringRef,
 } from "@react-spring/web";
-import Image from "next/image";
+// import Image from "next/image";
 
 import data from "./data";
 import styles from "./styles.module.css";
@@ -50,11 +50,11 @@ export default function Animated() {
     }
   }
 
-  function onClose() {
-    if (open) {
-      return set(() => false);
-    }
-  }
+  // function onClose() {
+  //   if (open) {
+  //     return set(() => false);
+  //   }
+  // }
 
   function onClickItem() {
     set(() => false);
