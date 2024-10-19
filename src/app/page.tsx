@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import Anniv from "../../public/img_anniv.png";
+// import Anniv from "../../public/img_anniv.png";
 import Confetti from "./components/Confetti";
 
 export default function Home() {
