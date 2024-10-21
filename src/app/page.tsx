@@ -6,19 +6,13 @@ import Confetti from "./components/Confetti";
 
 export default function Home() {
   function onClick() {
-    alert("haha, its prank");
-    alert("tertipu kamu");
-    alert("...");
-    alert("...");
-    alert("...");
-    alert("kenapa masih disini");
-    alert("apa yang mau di liat");
-    alert("eumm");
-    alert("sebetulnya ga boong");
+    alert("kamu sangat polos sekali");
+    alert("lagi-lagi tertipu");
     alert("wkwkwk");
     alert("nantikan update selanjutnya");
-    alert("nantikan jam 10.00 WIB");
-    alert("Hari Senin, 21 Oktober 2024");
+    alert("nantikan jam 13.00 WIB");
+    alert("Hari Rabu, 23 Oktober 2024");
+    alert("Info ini di update jam 11");
   }
 
   return (
